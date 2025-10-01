@@ -38,8 +38,18 @@ primetrade/
    ```
 
 This will start:
-- Backend API on http://localhost:5000
+- Backend API on http://localhost:5002
 - Frontend app on http://localhost:3000
+
+## 🌐 Live Demo
+
+- **Frontend**: https://vaibhavsainii.github.io/prime-trade
+- **Backend**: Deploy to Render, Vercel, or Railway (see DEPLOYMENT.md)
+
+## 📚 Documentation
+
+- [Development Guide](DEVELOPMENT.md) - Detailed setup and development instructions
+- [Deployment Guide](DEPLOYMENT.md) - How to deploy to production
 
 ## Technologies Used
 
